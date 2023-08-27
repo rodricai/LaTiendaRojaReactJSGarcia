@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Camiseta Roja 2023",
+        "avatar": "https://afaar.vtexassets.com/arquivos/ids/156048/camiseta-CAI.png?v=638161278687200000",
+        "stock": 10,
+        "category": "futbol",
+        "id": "1",
+        "price": 110
+    },
+    {
+        "name": "Short Rojo 2023",
+        "avatar": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwbd07e302/products/PU771563-02/PU771563-02-1.JPG",
+        "stock": 5,
+        "category": "futbol",
+        "id": "2",
+        "price": 35
+    },
+    {
+        "name": "Camiseta Blanca 2023 ",
+        "avatar": "https://afaar.vtexassets.com/arquivos/ids/155829-500-auto?v=638092383626800000&width=500&height=auto&aspect=true",
+        "stock": 12,
+        "category": "futbol",
+        "id": "3",
+        "price": 100
+    },
+    {
+        "name": "Short Blanco 2023",
+        "avatar": "https://media.solofutbol.com/media/catalog/product/cache/3cb7d75bc2a65211451e92c5381048e9/s/h/short-de-independiente-puma-alternativa-blanco-640020771571001-1.jpg",
+        "stock": 7,
+        "category": "futbol",
+        "id": "4",
+        "price": 30
+    },
+    {
+        "name": "Campera Roja",
+        "avatar": "https://media.solofutbol.com/media/catalog/product/cache/3cb7d75bc2a65211451e92c5381048e9/c/a/campera-de-independiente-puma-prematch-roja-640020767470007-1.jpg",
+        "stock": 9,
+        "category": "abrigo",
+        "id": "5",
+        "price": 130
+    },
+    {
+        "name": "Buzo Gris",
+        "avatar": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/6/4/640020704747002-1.jpg",
+        "stock": 25,
+        "category": "abrigo",
+        "id": "6",
+        "price": 120
+    },
+    {
+        "name": "Camiseta Roja 2021",
+        "avatar": "https://www.argensend.com/wp-content/uploads/2021/11/descarga-2021-11-13T152717.780.jpeg",
+        "stock": 4,
+        "category": "futbol",
+        "id": "7",
+        "price": 75
+    },
+    {
+        "name": "Bolso",
+        "avatar": "https://celadasa.vtexassets.com/arquivos/ids/226172-500-auto?v=638144123022300000&width=500&height=auto&aspect=true",
+        "stock": 16,
+        "category": "accesorios",
+        "id": "8",
+        "price": 60
+    },
+    {
+        "name": "Pelota Negra",
+        "avatar": "https://media.solofutbol.com/media/catalog/product/cache/3cb7d75bc2a65211451e92c5381048e9/p/e/pelota-de-independiente-drb-numero-5-negra-241040045970001-1.jpg",
+        "stock": 2,
+        "category": "accesorios",
+        "id": "9",
+        "price": 25
+    },
+    {
+        "name": "Gorra Negra",
+        "avatar": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/g/o/gorra-de-independiente-puma-ftblculture-negra-640040024349001-1.jpg",
+        "stock": 9,
+        "category": "accesorios",
+        "id": "10",
+        "price": 13
+    }
+]

@@ -11,11 +11,12 @@ export const NavBar = () => (
     
 <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#">Ecommerce</Navbar.Brand>
+          <Navbar.Brand href="/">Ecommerce</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="#">Pantalon</Nav.Link>
-            <Nav.Link href="#">Camiseta</Nav.Link>
-            <Nav.Link href="#">Accesorios</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="/category/futbol">Futbol</Nav.Link>
+            <Nav.Link href="/category/abrigo">Abrigos</Nav.Link>
+            <Nav.Link href="/category/accesorios">Accesorios</Nav.Link>
           </Nav>
           <CartWidget/>
         </Container>
